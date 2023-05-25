@@ -1,0 +1,5 @@
+com/firefly/topwords/model/Essay.class
+com/firefly/topwords/service/EssayAnalyzerService.class
+com/firefly/topwords/StartApplication.class
+com/firefly/topwords/service/WordCounterService.class
+com/firefly/topwords/model/BankOfWords.class
